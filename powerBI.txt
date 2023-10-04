@@ -1,0 +1,10 @@
+Group + region
+Drill up 
+Drill Down
+Exapand all down 
+Go to the next level of hiereachy : go deep down into heiracrch(intsead of manually adding all attributes we will just use add hirearchy)
+
+
+ROW LEVEL SECURITY:(RLS)
+day 11- dynamic_RLS_pdf 
+go through that 
